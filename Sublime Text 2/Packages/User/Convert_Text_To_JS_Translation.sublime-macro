@@ -1,0 +1,137 @@
+[
+	{
+		"args": null,
+		"command": "cut"
+	},
+	{
+		"args":
+		{
+			"characters": "''"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"by": "characters",
+			"forward": false
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"characters": " +"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " k"
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args":
+		{
+			"characters": "language.translat"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "ion("
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"by": "characters",
+			"forward": true
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"characters": "',"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " ;;"
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args":
+		{
+			"characters": ";'"
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args":
+		{
+			"characters": "'',"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " '"
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "paste"
+	},
+	{
+		"args":
+		{
+			"characters": "')"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " +"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " '"
+		},
+		"command": "insert"
+	}
+]
