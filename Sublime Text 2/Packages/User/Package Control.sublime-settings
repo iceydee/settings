@@ -2,10 +2,11 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
-		"ChangeQuotes",
 		"CoffeeScript",
 		"DashDoc",
 		"Git",
+		"Handlebars",
+		"HTML2Haml",
 		"JS2Coffee",
 		"JsFormat",
 		"Markdown Preview",
@@ -13,9 +14,7 @@
 		"Package Control",
 		"RailsCasts Colour Scheme",
 		"Sass",
-		"SmartMarkdown",
 		"SublimeAlternate",
-		"SublimeAStyleFormatter",
 		"SublimeLinter"
 	]
 }
