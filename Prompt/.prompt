@@ -9,7 +9,7 @@ function git_dirty_flag {
 }
 
 function set_prompt {
-  PS1="\e]2;\w\a\e[33\e[0;32m\]$(date +%H:%M:%S) \e[33\e[0;36m\]$(last_two_dirs)\e[33\e[0m\]$(__git_ps1)\e[33\e[0;33m\]$(git_dirty_flag)\e[33\e[0m\] ✪ "
+  PS1="\e]2;\w\a\e[33\e[0;32m\]$(date +%H:%M:%S) \e[33\e[0;36m\]$(last_two_dirs)\e[33\e[0m\]$(__git_ps1)\e[33\e[0;33m\]$(git_dirty_flag)\e[33\e[0m\]\n✪ "
 }
 
 PROMPT_COMMAND=set_prompt
