@@ -1,3 +1,6 @@
 {
-  "javascript_linter": "gjslint"
+  "javascript_linter": "jshint",
+  "sublimelinter_mark_style": "outline",
+  "sublimelinter_popup_errors_on_save": true,
+  "sublimelinter_delay": 0.5
 }

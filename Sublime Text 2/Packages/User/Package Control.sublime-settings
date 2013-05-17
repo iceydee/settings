@@ -9,6 +9,8 @@
 		"HTML2Haml",
 		"JS2Coffee",
 		"JsFormat",
+		"LESS",
+		"LiveReload",
 		"Markdown Preview",
 		"MarkdownEditing",
 		"Package Control",
