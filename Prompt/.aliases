@@ -1,4 +1,4 @@
-. ~/.prompt
+# . ~/.prompt
 . ~/.xcode-aliases
 
 alias l='ls -alFh'
@@ -11,6 +11,7 @@ alias g+='git push'
 alias gg='g- && g+'
 alias rogo='git log --oneline --author=mio --after=`date +%Y-%m-%d`" 00:00" | cut -d" " -f2- | pbcopy'
 alias rbp='rails_best_practices -f html --with-textmate . ; open rails_best_practices_output.html'
+alias web='python -m SimpleHTTPServer'
 
 alias yb='rake yolo:release:ipa'
 
