@@ -15,15 +15,12 @@ mkdir -p "${HOME}/Library/Developer/Xcode/UserData/FontAndColorThemes/"
 cp -R "${BASE_PATH}/Xcode/FontAndColorThemes/" "${HOME}/Library/Developer/Xcode/UserData/FontAndColorThemes/"
 echo "finished."
 
-echo -n "Installing bash prompt: "
-for FILE in `find ${BASE_PATH}/Prompt -type f`; do
-  mv ${FILE} "${HOME}/"
+echo -n "Updating ZSH: "
+mkdir -p "${HOME}/.oh-my-zsh"
+for FILE in `find ${BASE_PATH}/Zsh_Custom -type f`; do
+  mv ${FILE} "${HOME}/.oh-my-zsh/custom/"
 done
-if [ ! -f "${HOME}/.bash_profile" ]; then
-  mv "${BASE_PATH}/.bash_profile" "${HOME}/"
-else
-  cat >> ${HOME}/.bash_profile << EOF
-. ~/.aliases
-EOF
+if [ ! -f "${HOME}/.zshrc" ]; then
+  mv "${BASE_PATH}/.zshrc" "${HOME}/"
 fi
 echo "finished."

@@ -2,8 +2,12 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"Alignment",
+		"BitcoinTicker",
 		"CoffeeScript",
+		"Cucumber",
 		"DashDoc",
+		"DocBlockr",
 		"Git",
 		"Handlebars",
 		"HTML2Haml",
@@ -17,6 +21,8 @@
 		"RailsCasts Colour Scheme",
 		"Sass",
 		"SublimeAlternate",
-		"SublimeLinter"
+		"SublimeLinter",
+		"SublimeREPL",
+		"Unity3D"
 	]
 }

@@ -5,12 +5,13 @@
 	"default_line_ending": "unix",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 15.0,
+	"font_size": 18.0,
 	"highlight_line": false,
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"LiveReload"
 	],
 	"preview_on_click": false,
 	"remember_open_files": false,
@@ -20,6 +21,6 @@
 	],
 	"shift_tab_unindent": true,
 	"tab_size": 2,
-	"translate_tabs_to_spaces": false,
+	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
