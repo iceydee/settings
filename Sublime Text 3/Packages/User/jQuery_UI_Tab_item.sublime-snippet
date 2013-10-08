@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+<li><a href="${1:reference}">${2:name}</a></li>
+]]></content>
+  <tabTrigger>lia</tabTrigger>
+</snippet>

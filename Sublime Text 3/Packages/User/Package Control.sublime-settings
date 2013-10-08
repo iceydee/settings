@@ -1,0 +1,30 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"BitcoinTicker",
+		"CoffeeScript",
+		"Cucumber",
+		"DashDoc",
+		"DocBlockr",
+		"Git",
+		"GoSublime",
+		"Handlebars",
+		"HTML2Haml",
+		"Javascript Beautify",
+		"JS2Coffee",
+		"LESS",
+		"LiveReload",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Pretty JSON",
+		"RailsCasts Colour Scheme",
+		"Sass",
+		"SublimeAlternate",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Unity3D"
+	]
+}

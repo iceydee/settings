@@ -5,9 +5,9 @@ if [ -n "${1}" ]; then
   BASE_PATH=${1}
 fi
 
-echo -n "Installing Sublime Text 2 Packages: "
-mkdir -p "${HOME}/Library/Application Support/Sublime Text 2"
-cp -R "${BASE_PATH}/Sublime Text 2/" "${HOME}/Library/Application Support/Sublime Text 2/"
+echo -n "Installing Sublime Text 3 Packages: "
+mkdir -p "${HOME}/Library/Application Support/Sublime Text 3"
+cp -R "${BASE_PATH}/Sublime Text 3/" "${HOME}/Library/Application Support/Sublime Text 3/"
 echo "finished."
 
 echo -n "Installing Xcode Themes: "

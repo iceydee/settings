@@ -1,0 +1,4 @@
+[
+  { "keys": ["super+alt+f"], "command": "show_panel", "args": {"panel": "replace"} },
+  { "keys": ["super+alt+l"], "command": "run_macro_file", "args": {"file": "Packages/User/Make_unfuddle_links.sublime-macro"} }
+]

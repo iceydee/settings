@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+/* jshint laxcomma:true, indent:2, white:true */
+]]></content>
+  <tabTrigger>jshint</tabTrigger>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+github.com/${1:github user}/${2:repository}${3:/subpath}
+]]></content>
+  <tabTrigger>gh</tabTrigger>
+</snippet>

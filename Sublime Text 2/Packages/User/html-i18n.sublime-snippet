@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[
-class="i18n" rel="${1:section}|${2:key}"
-]]></content>
-  <tabTrigger>i18n</tabTrigger>
-</snippet>

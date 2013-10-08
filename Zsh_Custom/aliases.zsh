@@ -1,6 +1,3 @@
-# . ~/.prompt
-. ~/.xcode-aliases
-
 alias l='ls -alFh'
 alias c='clear'
 alias pico='pico -w'

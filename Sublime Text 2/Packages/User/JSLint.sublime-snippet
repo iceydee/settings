@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-/*jslint es5: true, nomen: false, regexp: true, indent: 2*/
-/*global console: false, jQuery: true, window: true, document: true*/
-]]></content>
-  <tabTrigger>jslint</tabTrigger>
-</snippet>
